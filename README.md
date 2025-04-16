@@ -8,5 +8,5 @@ php artisan queue:work
 ## mqtt library for python
 pip install paho-mqtt
 
-##to run python file
+## to run python file
 python filename.py
